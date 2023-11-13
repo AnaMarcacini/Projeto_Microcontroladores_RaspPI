@@ -1,5 +1,5 @@
 # Projeto Robô Anisa 
-Esse trabalho se trata de um robô interativo e divertido para todas as idades. Esse projeto foi desenvolvido para as atividades T2 e T3 da Diciplina de microcontroladores do IMT
+Esse trabalho se trata de um robô interativo e divertido para todas as idades. Esse projeto foi desenvolvido para as atividades T2 e T3 da Disciplina de microcontroladores do IMT
 <br>
 <br>**Autores**:
 <br> Ana Helena Marcacini 20.01305-0
