@@ -9,17 +9,15 @@ Esse trabalho se trata de um robô interativo e divertido para todas as idades. 
 Criação de um Pet virtual utilizando Raspberry Py (usando a linguagem python) que interage com o usuario de maneira divertida.
 ## 3. Hardware
 ### 3.1 Esquema elétrico
-<img src = https://github.com/AnaMarcacini/Projeto_Microcontroladores/blob/main/Hardware/Esquema%20Eletrico.jpeg > </img>
+Foi utilizado o Altium para imprimir a placa. O arquivo utilizado se encontra [aqui](https://github.com/AnaMarcacini/Projeto_Microcontroladores_RaspPI/tree/main/Docs/EsquemaEletrico)
+
 ### 3.4 Modelagem
-Para a finalização do projeto, foi feita,  com apoio do FabLab, uma caixa para o raspberry
+Para a finalização do projeto, foi feita uma caixa para o raspberry pi
 
-[- Arquivos para montagem da caixa](https://github.com/AnaMarcacini/Projeto_Microcontroladores/tree/main/Montagem%20da%20Caixa)
+[Arquivos para montagem da caixa](https://github.com/AnaMarcacini/Projeto_Microcontroladores_RaspPI/tree/main/Docs/Solid)
 ### 3.5 Projeto Final
-
-* Placa eletrônica fora da caixa: 
-<img src = https://github.com/AnaMarcacini/Projeto_Microcontroladores/blob/main/Hardware/Hardware%20soldado.jpeg> </img>
-* Montagem final:
-<img src = https://github.com/AnaMarcacini/Projeto_Microcontroladores/blob/main/Hardware/Trabalho%20Pronto.jpeg> </img>
+Foi utilizado o Ubidots para a criação de um dashboard online e acessivel a todos pela internet [Link Ubidots](https://stem.ubidots.com/app/dashboards/654bf5f0bf877b000d07d491)
+<img src = https://github.com/AnaMarcacini/Projeto_Microcontroladores_RaspPI/blob/main/Docs/Videos/IMG_20231108_175854_931.jpg> </img>
 
 
 
